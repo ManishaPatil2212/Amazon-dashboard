@@ -1,3 +1,6 @@
+# Amazon Global Sales Analysis Using Power Bi Dashboard
+![Amazon dashboard](https://github.com/user-attachments/assets/41eb4695-bd77-42a5-ae97-85751d45fd2d)
+
 ## Summary
 This Power BI Dashboard provides an interactive view of Amazon's global sales data, allowing users to explore and analyze different aspects of the business by interacting with various sections. The numbers and visualizations displayed are dynamic and will update based on the user's selections.
 
